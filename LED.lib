@@ -1,0 +1,55 @@
+* GENERIC FUNCTIONAL EQUIVALENT = 1N5765
+* TYPE: GAASP LED
+* SUBTYPE: SOLID STATE LAMP
+* THIS IS A MODEL AT VARIOUS TEST CONDITIONS OF THE 1N5765.
+*
+* THIS MODEL SIMULATES ONLY THE ELECTRICAL CHARACTERISTICS OF THE DEVICE
+* THIS IS A TEMPERATURE COMPENSATED MODEL INTENDED FOR USE FROM -55 TO
+* 125 DEG C.
+* PARAMETER MODEL EXTRACTED FROM MEASURED DATA
+*
+*
+.SUBCKT   D1N5765       2   99
+*                      |    |
+*                      |    |
+*                      |    CATHODE
+*                      ANODE
+I1  99  4   7.0
+D1  2   99   DLOW
+D2  2   4   DHIGH
+R1  4   99  .1   TC=-6.27E-3,-2.33E-7
+*
+.MODEL DLOW     D       (
++         IS = 1.0E-15
++         RS = 100
++          N = 2.15
++         TT = 10.0E-09
++        CJO = 8.285237E-11
++         VJ = 1.2076937
++          M = 0.4053107
++         EG = 1.664
++        XTI = 10.78
++         KF = 0
++         AF = 1
++         FC = 0.4340008
++         BV = 5.0
++        IBV = 1E-4
++ )
+.MODEL DHIGH    D       (
++         IS = 9.0E-15
++         RS = 0.30
++          N = 1.2
++         TT = 0
++        CJO = 0
++         VJ = 1
++          M = .5
++         EG = 0.1
++        XTI = -3.84
++         KF = 0
++         AF = 1
++         FC = .5
++         BV = 9.9999E+13
++        IBV = .001
++ )
+.ENDS
+*$
