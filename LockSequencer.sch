@@ -21420,8 +21420,8 @@ Source: www.kingbright.com</description>
 <part name="JP6" library="pinhead" deviceset="PINHD-1X2" device=""/>
 <part name="JP7" library="pinhead" deviceset="PINHD-1X2" device=""/>
 <part name="JP8" library="pinhead" deviceset="PINHD-1X2" device=""/>
-<part name="H1" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
-<part name="H2" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
+<part name="H1" library="holes" deviceset="MOUNT-HOLE" device="2.8" value="MOUNT-HOLE2.8"/>
+<part name="H2" library="holes" deviceset="MOUNT-HOLE" device="2.8" value="MOUNT-HOLE2.8"/>
 </parts>
 <sheets>
 <sheet>
