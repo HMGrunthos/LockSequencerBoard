@@ -1,0 +1,79 @@
+Partlist exported from /home/sam/Documents/eagle/LockSequencer/LockSequencer.sch at 23/05/2018 14:11
+
+Part Value          Device                   Package          Description                          
+C1   330uF          CPOL-EUE3.5-8            E3,5-8           POLARIZED CAPACITOR, European symbol 
+C2   100uF          CPOL-EUE2-5              E2-5             POLARIZED CAPACITOR, European symbol 
+C3   100n           C-EUC1206K               C1206K           CAPACITOR, European symbol           
+C4   100n           C-EU050-024X044          C050-024X044     CAPACITOR, European symbol           
+C5   10n            C-EUC1206K               C1206K           CAPACITOR, European symbol           
+C6   1uF            C-EUC1206K               C1206K           CAPACITOR, European symbol           
+C7   100n           C-EUC1206K               C1206K           CAPACITOR, European symbol           
+C9   100n           C-EUC1206K               C1206K           CAPACITOR, European symbol           
+C11  100n           C-EU050-024X044          C050-024X044     CAPACITOR, European symbol           
+C12  10n            C-EUC1206K               C1206K           CAPACITOR, European symbol           
+C13  10uF           CPOL-EUE2-5              E2-5             POLARIZED CAPACITOR, European symbol 
+D1   P6KEXXCTS-P6KE P6KEXXCTS-P6KE           DO15-10          DIODE                                
+D2   P6KEXXCTS-P6KE P6KEXXCTS-P6KE           DO15-10          DIODE                                
+D3   Z12V           DIODE-SOD323-W           SOD323-W         DIODE                                
+D4   UF5404         SCHOTTKY-DIODECB429-15VR CB429-15R        Schottky Diode                       
+D5   UF5404         SCHOTTKY-DIODECB429-15V  CB429-15V        Schottky Diode                       
+D6   P6KEXXCTS-P6KE P6KEXXCTS-P6KE           DO15-10          DIODE                                
+D8   P6KEXXCTS-P6KE P6KEXXCTS-P6KE           DO15-10          DIODE                                
+D9                  DIODE-SOD123             SOD123           DIODE                                
+D11  P6KEXXCTS-P6KE P6KEXXCTS-P6KE           DO15-10          DIODE                                
+F1                  TE5                      TE5              FUSE                                 
+F3                  TE5                      TE5              FUSE                                 
+F4                  TE5                      TE5              FUSE                                 
+F5                  TE5                      TE5              FUSE                                 
+F6                  TE5                      TE5              FUSE                                 
+IC1  4017D          4017D                    SO16             COUNTER/DIVIDER                      
+IC2  NE555          NE555                    DIL-08           General purpose bipolar Timer        
+JP1                 PINHD-1X2                1X02             PIN HEADER                           
+JP2                 PINHD-1X8                1X08             PIN HEADER                           
+JP3                 PINHD-1X8                1X08             PIN HEADER                           
+JP4                 PINHD-1X2                1X02             PIN HEADER                           
+JP5                 PINHD-1X2                1X02             PIN HEADER                           
+JP6                 PINHD-1X2                1X02             PIN HEADER                           
+JP7                 PINHD-1X2                1X02             PIN HEADER                           
+JP8                 PINHD-1X2                1X02             PIN HEADER                           
+K1   G2RATE-OJ      G2RATE-OJ                G2RA-SHORTER     RELAY                                
+K2   G2RATE-OJ      G2RATE-OJ                G2RA-SHORTER     RELAY                                
+LED1                LED5MM                   LED5MM           LED                                  
+LED2                LED5MM                   LED5MM           LED                                  
+LED3                LED5MM                   LED5MM           LED                                  
+LED4                LED5MM                   LED5MM           LED                                  
+R1   10K            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R2   7K5            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R3   100K           TRIM_EU-CA9V             CA9V             POTENTIOMETER                        
+R4   100k           R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R5   2K2            R-EU_R0402               R0402            RESISTOR, European symbol            
+R6   10K            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R7   10K            R-EU_R0805               R0805            RESISTOR, European symbol            
+R8   2K2            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R9   196R           R-EU_R0805               R0805            RESISTOR, European symbol            
+R10  15K4           R-EU_R0603               R0603            RESISTOR, European symbol            
+R11  15K4           R-EU_R0603               R0603            RESISTOR, European symbol            
+R12  2K2            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R13  2K2            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R14  15K4           R-EU_R0603               R0603            RESISTOR, European symbol            
+R15  2K2            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R16  15K4           R-EU_R0603               R0603            RESISTOR, European symbol            
+R17  2K2            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+R18  0R1            R-EU_R2512               R2512            RESISTOR, European symbol            
+R19  0R1            R-EU_R2512               R2512            RESISTOR, European symbol            
+R20  51k            R-EU_0207/7              0207/7           RESISTOR, European symbol            
+T1                  -NPN_DRIVER-             SOT23            NPN Bias Resistor Transistor         
+T2                  MMBTA42LT1-NPN-SOT23-BEC SOT23-BEC        NPN Transistror                      
+T3                  MMBTA42LT1-NPN-SOT23-BEC SOT23-BEC        NPN Transistror                      
+T4                  MMBTA42LT1-NPN-SOT23-BEC SOT23-BEC        NPN Transistror                      
+T5                  -NPN_DRIVER-             SOT23            NPN Bias Resistor Transistor         
+U$1  2N7002         2N7002                   SOT23                                                 
+U$4  BU48XXG        BU48XXG                  SOT95P280X125-5N                                      
+U$13 2N7002         2N7002                   SOT23                                                 
+X2                  W237-103                 W237-103         WAGO SCREW CLAMP                     
+X5                  W237-102                 W237-102         WAGO SCREW CLAMP                     
+X6                  W237-102                 W237-102         WAGO SCREW CLAMP                     
+X7                  W237-102                 W237-102         WAGO SCREW CLAMP                     
+X8                  W237-102                 W237-102         WAGO SCREW CLAMP                     
+X9                  W237-102                 W237-102         WAGO SCREW CLAMP                     
+X10                 W237-103                 W237-103         WAGO SCREW CLAMP                     
