@@ -351,8 +351,8 @@ UsedLibrary="/home/sam/Documents/eagle/lbr/ROHM_By_element14_Batch_1.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="228 164 1837 563"
-State=1
+Loc="83 110 682 509"
+State=2
 Number=0
 
 [Desktop]
